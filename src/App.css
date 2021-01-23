@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+
+.card {
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+}
+
+.carousel-caption h1 {
+  font-family:    Helvetica;
+  font-size:      1em;
+  color:          black;
+  }
+  /* Description text */
+  .carousel-caption p {
+  font-family:    inherit;
+  font-size:      1em;
+  color:          black;
+  }
+  
+  .carousel-control-next,
+  .carousel-control-prev /*, .carousel-indicators */ {
+      filter: invert(100%);
+  }
+
+  carousel-indicators li {
+    background-color: rgb(0, 0, 0);
+    background-color: rgba(70, 70, 70, 0.25);
+  }
+  
+  .carousel-indicators .active {
+    background-color: #444;
+  }
