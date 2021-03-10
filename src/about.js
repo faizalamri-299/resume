@@ -22,7 +22,7 @@ export const about = () => (
       <h5>About Myself</h5>
       <p>
         My name is Faizal Amri Bin Abd Manan. I was born at Kuala Terengganu in December 6th, 1997. I am 24 years old. I am a graduate
-        student from Universiti Tun Hussien Onn Malaysia in Bachelor Degree of Information Technology and also a diploma holder in Information Technology.
+        student from Universiti Tun Hussien Onn Malaysia in Bachelowdsdfsdr Degree of Information Technology and also a diploma holder in Information Technology.
       </p>
     </Media.Body>
   </Media>
